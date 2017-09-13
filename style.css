@@ -24,6 +24,7 @@ textarea#input
 	background:#1a1a1c;
 	color:#fff;
 	resize:none;
+ font-size:2em;
 }
 div#bottom
 {
@@ -31,7 +32,7 @@ div#bottom
 	height:10%;
 	background:#3c3c3e;
 }
-.opt{float:left;width:25%;height:100%;background:#3c3c3e;color:#fff;resize:none;}
+.opt{float:left;width:25%;height:100%;background:#3c3c3e;color:#fff;resize:none;font-size:3em;}
 iframe#output
 {
 	float:left;
